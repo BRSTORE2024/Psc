@@ -1,0 +1,14 @@
+{
+  "name": "paysafe-bot",
+  "version": "1.0.0",
+  "description": "Bot Google Play PaysafeCard - Anti Stealth",
+  "main": "paysafe_bot.js",
+  "scripts": {
+    "start": "node paysafe_bot.js"
+  },
+  "dependencies": {
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer": "^22.0.0"
+  }
+}
